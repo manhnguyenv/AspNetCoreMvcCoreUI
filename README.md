@@ -7,9 +7,11 @@ The [CoreUI Open Source Bootstrap 4 Admin Template](http://coreui.io/) was adapt
 This repo goes along with my blog posts:
 
 ASP.NET MVC Core 2.1 + CoreUI v2.0.0
+
 [Building elegant applications with ASP.NET Core MVC 2.1 and CoreUI 2 (Bootstrap 4)](http://www.coderepo.blog/posts/building-elegant-applications-aspnet-core-mvc-2.1-coreui-2-bootstrap-4/)
 
 ASP.NET MVC Core 1.1 + CoreUI v1.0.4
+
 [Building elegant applications with ASP.NET MVC Core 2 and Bootstrap 4 using CoreUI](http://www.coderepo.blog/posts/building-elegant-applications-aspnet-mvc-core-2-bootstrap-4-coreui/)
 
 In the blog posts I explain the process of adapting the [CoreUI](http://coreui.io/) template.
